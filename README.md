@@ -86,7 +86,7 @@ If you haven’t enabled Hyper-V on your host machine, follow these steps:
 
 3. Choose your preferred **Windows Server 2025 edition** and click **Next**.
 
-  ![image](https://github.com/user-attachments/assets/fe7b08dd-a1c3-483c-9368-ce43690bde01)
+   ![image](https://github.com/user-attachments/assets/fe7b08dd-a1c3-483c-9368-ce43690bde01)
 
 
 4. Accept the license terms and select **Next**.
@@ -98,12 +98,12 @@ If you haven’t enabled Hyper-V on your host machine, follow these steps:
 1. After installation, the system will reboot, and you’ll be prompted to set up an administrator password.
 2. Enter a secure password and press **Enter**.
 
-  ![image](https://github.com/user-attachments/assets/e7bcaf84-35e2-47c5-880a-f3c76cf3c8ea)
+   ![image](https://github.com/user-attachments/assets/e7bcaf84-35e2-47c5-880a-f3c76cf3c8ea)
   
 3. Once setup is complete, log in with the administrator credentials you just created.
 
 
-  ![image](https://github.com/user-attachments/assets/22e1530c-0e76-4dae-b701-cbf8720303af)
+   ![image](https://github.com/user-attachments/assets/22e1530c-0e76-4dae-b701-cbf8720303af)
 
 
 ### Additional Configuration
