@@ -42,18 +42,32 @@ If you haven’t enabled Hyper-V on your host machine, follow these steps:
 
 1. **Specify Name and Location**
    - Give your VM a name, such as “Windows Server 2025.”
-   - (Optional) Choose a different location to store the VM files.
 2. **Assign Memory**
    - Set the startup memory (recommended: at least 4096 MB for Windows Server 2025).
    - Optionally, enable **Dynamic Memory** if your system supports it.
+  
+![image](https://github.com/user-attachments/assets/7e0a1388-df2c-4cf7-aab5-3bc8f3ce6c55)
+
+     
 3. **Configure Networking**
    - Select an existing virtual switch or create a new one.
 4. **Connect Virtual Hard Disk**
    - Choose to **Create a virtual hard disk**.
    - Set the size (recommended: 60 GB or more).
+   - (Optional) Choose a different location to store the VM files.
+
+ ![image](https://github.com/user-attachments/assets/259484d1-8e39-4a4f-966b-3d179716b3e0)
+
+     
 5. **Installation Options**
    - Select **Install an operating system from a bootable image file**.
    - Browse and select the **Windows Server 2025 ISO**.
+
+
+  
+ ![image](https://github.com/user-attachments/assets/760ba6a0-fb4d-451f-9b6e-d7b520e91d4e)
+
+     
 
 ### Step 4: Install Windows Server 2025
 
