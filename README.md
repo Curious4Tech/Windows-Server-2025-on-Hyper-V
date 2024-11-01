@@ -80,6 +80,10 @@ If you haven’t enabled Hyper-V on your host machine, follow these steps:
 2. Windows Setup will start. Follow the on-screen prompts:
    - Select **Language**, **Time**, and **Keyboard Layout**.
    - Click **Next**, then **Install Now**.
+  
+   
+   ![image](https://github.com/user-attachments/assets/d4bd9d89-b4d0-44ba-8f49-3f32459da25d)
+
 3. Choose your preferred **Windows Server 2025 edition** and click **Next**.
 4. Accept the license terms and select **Next**.
 5. Select **Custom: Install Windows only (advanced)**.
