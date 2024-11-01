@@ -46,7 +46,8 @@ If you haven’t enabled Hyper-V on your host machine, follow these steps:
    - Set the startup memory (recommended: at least 4096 MB for Windows Server 2025).
    - Optionally, enable **Dynamic Memory** if your system supports it.
   
-![image](https://github.com/user-attachments/assets/7e0a1388-df2c-4cf7-aab5-3bc8f3ce6c55)
+ ![image](https://github.com/user-attachments/assets/1fa4cffd-b1d6-4b63-95b2-1c2cb871dc98)
+
 
      
 3. **Configure Networking**
