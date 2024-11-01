@@ -31,6 +31,11 @@ If you haven’t enabled Hyper-V on your host machine, follow these steps:
 
 1. Open **Hyper-V Manager**.
 2. In the **Actions** panel, click **New** → **Virtual Machine**.
+
+
+![image](https://github.com/user-attachments/assets/667d5792-2e97-4963-82c3-f0438c1be055)
+
+
 3. In the **New Virtual Machine Wizard**, click **Next**.
 
 ### Step 3: Configure the Virtual Machine
