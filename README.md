@@ -85,6 +85,10 @@ If you haven’t enabled Hyper-V on your host machine, follow these steps:
    ![image](https://github.com/user-attachments/assets/d4bd9d89-b4d0-44ba-8f49-3f32459da25d)
 
 3. Choose your preferred **Windows Server 2025 edition** and click **Next**.
+
+ ![image](https://github.com/user-attachments/assets/fe7b08dd-a1c3-483c-9368-ce43690bde01)
+
+
 4. Accept the license terms and select **Next**.
 5. Select **Custom: Install Windows only (advanced)**.
 6. Choose the virtual drive created earlier, then click **Next** to start the installation.
