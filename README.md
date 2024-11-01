@@ -3,7 +3,7 @@ This guide provides a step-by-step process to install Windows Server 2025 on a H
 
 ## Prerequisites
 
-- A host machine with **Hyper-V enabled** (Windows 10 Pro/Enterprise or Windows Server 2016/2019/2022).
+- A host machine with **Hyper-V enabled** (Windows 10 Pro/Enterprise or Windows 11 or Windows Server 2016/2019/2022).
 - **Windows Server 2025 ISO** downloaded from the [Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter).
 - Sufficient system resources (recommended: 4 GB RAM, 2 CPUs, and 60 GB disk space for a smooth experience).
 
