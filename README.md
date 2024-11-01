@@ -32,8 +32,8 @@ If you haven’t enabled Hyper-V on your host machine, follow these steps:
 1. Open **Hyper-V Manager**.
 2. In the **Actions** panel, click **New** → **Virtual Machine**.
 
+ ![image](https://github.com/user-attachments/assets/a59f064d-4f9d-4b69-ac9b-64c38fcbe1a1)
 
-![image](https://github.com/user-attachments/assets/667d5792-2e97-4963-82c3-f0438c1be055)
 
 
 3. In the **New Virtual Machine Wizard**, click **Next**.
@@ -56,7 +56,9 @@ If you haven’t enabled Hyper-V on your host machine, follow these steps:
    - Set the size (recommended: 60 GB or more).
    - (Optional) Choose a different location to store the VM files.
 
- ![image](https://github.com/user-attachments/assets/259484d1-8e39-4a4f-966b-3d179716b3e0)
+
+ ![image](https://github.com/user-attachments/assets/55a3c580-2eef-4193-ba47-d34a17ba9c05)
+
 
      
 5. **Installation Options**
