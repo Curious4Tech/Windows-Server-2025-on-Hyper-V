@@ -102,6 +102,10 @@ If you haven’t enabled Hyper-V on your host machine, follow these steps:
   
 3. Once setup is complete, log in with the administrator credentials you just created.
 
+
+ ![image](https://github.com/user-attachments/assets/22e1530c-0e76-4dae-b701-cbf8720303af)
+
+
 ### Additional Configuration
 
 For optimal performance, consider configuring:
